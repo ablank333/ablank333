@@ -1,7 +1,5 @@
 # Ariel Blank
 
-I build software projects that apply algorithms to music theory and financial modeling.
-
 ## Selected projects
 
 - [Jazz Chord Analyzer](https://github.com/ablank333/jazz-chord-analyzer) — Java tool that assigns Roman numerals to jazz chords and detects ii–V–I progressions.
